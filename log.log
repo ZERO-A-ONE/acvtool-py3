@@ -1,0 +1,110 @@
+2023-02-07 02:09:48,917 - INFO - decompiled a2dp.Vol
+2023-02-07 02:15:17,915 - INFO - decompiled a2dp.Vol
+2023-02-07 02:16:59,905 - INFO - decompiled a2dp.Vol
+2023-02-07 02:21:12,106 - INFO - decompiled a2dp.Vol
+2023-02-07 02:21:59,302 - INFO - decompiled a2dp.Vol
+2023-02-07 02:22:29,689 - INFO - decompiled a2dp.Vol
+2023-02-07 19:54:15,444 - INFO - decompiled a2dp.Vol
+2023-02-07 19:57:28,123 - INFO - decompiled a2dp.Vol
+2023-02-07 19:57:32,361 - INFO - instrumented
+2023-02-07 19:57:41,122 - INFO - built
+2023-02-07 19:57:41,518 - INFO - apk instrumented: /home/syc/acvtool/acvtool_working_dir/instr_a2dp.apk
+2023-02-07 19:57:41,518 - INFO - package name: a2dp.Vol
+2023-02-07 22:18:49,693 - INFO - installing
+2023-02-07 22:19:14,560 - INFO - b'Performing Streamed Install\nSuccess\n'
+2023-02-07 22:20:01,848 - INFO - finish testing
+2023-02-07 22:20:01,848 - INFO - b''
+2023-02-07 22:20:02,001 - INFO - 0
+2023-02-07 22:20:02,001 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:21:55,953 - INFO - finish testing
+2023-02-07 22:21:55,954 - INFO - b''
+2023-02-07 22:21:56,108 - INFO - 0
+2023-02-07 22:21:56,108 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:21:56,117 - INFO - wait until the coverage file is saved a2dp.Vol
+2023-02-07 22:21:57,119 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:21:57,138 - INFO - coverage files at /mnt/sdcard/a2dp.Vol:
+2023-02-07 22:21:57,138 - INFO - onstop_coverage_1675837201185.ec
+onstop_coverage_1675837315290.ec
+2023-02-07 22:25:53,681 - INFO - b'mnt/sdcard/a2dp.Vol/onstop_coverage_1675837201185.ec: 1 file pulled, 0 skipped. 63.4 MB/s (264217 bytes in 0.004s)\n'
+2023-02-07 22:25:53,701 - INFO - b'mnt/sdcard/a2dp.Vol/onstop_coverage_1675837315290.ec: 1 file pulled, 0 skipped. 73.4 MB/s (264217 bytes in 0.003s)\n'
+2023-02-07 22:25:53,711 - INFO - report generating...
+2023-02-07 22:36:47,318 - INFO - finish testing
+2023-02-07 22:36:47,322 - INFO - b''
+2023-02-07 22:36:47,469 - INFO - 0
+2023-02-07 22:36:47,470 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:36:47,477 - INFO - wait until the coverage file is saved a2dp.Vol
+2023-02-07 22:36:48,479 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:36:48,501 - INFO - coverage files at /mnt/sdcard/a2dp.Vol:
+2023-02-07 22:36:48,501 - INFO - onstop_coverage_1675838206650.ec
+2023-02-07 22:36:52,860 - INFO - b'mnt/sdcard/a2dp.Vol/onstop_coverage_1675838206650.ec: 1 file pulled, 0 skipped. 5.2 MB/s (264217 bytes in 0.049s)\n'
+2023-02-07 22:36:52,871 - INFO - report generating...
+2023-02-07 22:47:31,303 - INFO - finish testing
+2023-02-07 22:47:31,305 - INFO - b''
+2023-02-07 22:47:31,454 - INFO - 0
+2023-02-07 22:47:31,454 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:47:31,464 - INFO - wait until the coverage file is saved a2dp.Vol
+2023-02-07 22:47:32,465 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:47:32,483 - INFO - coverage files at /mnt/sdcard/a2dp.Vol:
+2023-02-07 22:47:32,484 - INFO - onstop_coverage_1675838850636.ec
+2023-02-07 22:47:35,510 - INFO - b'mnt/sdcard/a2dp.Vol/onstop_coverage_1675838850636.ec: 1 file pulled, 0 skipped. 5.3 MB/s (264217 bytes in 0.047s)\n'
+2023-02-07 22:47:35,520 - INFO - report generating...
+2023-02-07 22:48:20,299 - INFO - finish testing
+2023-02-07 22:48:20,301 - INFO - b''
+2023-02-07 22:48:20,484 - INFO - 0
+2023-02-07 22:48:20,484 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:48:20,496 - INFO - wait until the coverage file is saved a2dp.Vol
+2023-02-07 22:48:21,498 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:48:21,517 - INFO - coverage files at /mnt/sdcard/a2dp.Vol:
+2023-02-07 22:48:21,517 - INFO - onstop_coverage_1675838899667.ec
+2023-02-07 22:48:23,363 - INFO - b'mnt/sdcard/a2dp.Vol/onstop_coverage_1675838899667.ec: 1 file pulled, 0 skipped. 5.9 MB/s (264217 bytes in 0.043s)\n'
+2023-02-07 22:48:23,374 - INFO - report generating...
+2023-02-07 22:49:21,478 - INFO - finish testing
+2023-02-07 22:49:21,480 - INFO - b''
+2023-02-07 22:49:21,664 - INFO - 0
+2023-02-07 22:49:21,664 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:49:21,674 - INFO - wait until the coverage file is saved a2dp.Vol
+2023-02-07 22:49:22,676 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-07 22:49:22,693 - INFO - coverage files at /mnt/sdcard/a2dp.Vol:
+2023-02-07 22:49:22,693 - INFO - onstop_coverage_1675838960844.ec
+2023-02-07 22:49:24,900 - INFO - b'mnt/sdcard/a2dp.Vol/onstop_coverage_1675838960844.ec: 1 file pulled, 0 skipped. 83.6 MB/s (264217 bytes in 0.003s)\n'
+2023-02-07 22:49:24,911 - INFO - report generating...
+2023-02-08 00:27:02,065 - INFO - finish testing
+2023-02-08 00:27:02,066 - INFO - b''
+2023-02-08 00:27:02,226 - INFO - 0
+2023-02-08 00:27:02,226 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-08 00:27:02,235 - INFO - wait until the coverage file is saved a2dp.Vol
+2023-02-08 00:27:03,237 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-08 00:27:03,255 - INFO - coverage files at /mnt/sdcard/a2dp.Vol:
+2023-02-08 00:27:03,256 - INFO - onstop_coverage_1675844821404.ec
+2023-02-08 00:27:05,202 - INFO - b'mnt/sdcard/a2dp.Vol/onstop_coverage_1675844821404.ec: 1 file pulled, 0 skipped. 5.5 MB/s (264217 bytes in 0.045s)\n'
+2023-02-08 00:27:05,216 - INFO - report generating...
+2023-02-08 00:28:21,073 - INFO - finish testing
+2023-02-08 00:28:21,075 - INFO - b''
+2023-02-08 00:28:21,224 - INFO - 0
+2023-02-08 00:28:21,225 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-08 00:28:21,234 - INFO - wait until the coverage file is saved a2dp.Vol
+2023-02-08 00:28:22,235 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-08 00:28:22,252 - INFO - coverage files at /mnt/sdcard/a2dp.Vol:
+2023-02-08 00:28:22,252 - INFO - onstop_coverage_1675844900401.ec
+2023-02-08 00:28:24,152 - INFO - b'mnt/sdcard/a2dp.Vol/onstop_coverage_1675844900401.ec: 1 file pulled, 0 skipped. 5.8 MB/s (264217 bytes in 0.043s)\n'
+2023-02-08 00:28:24,163 - INFO - report generating...
+2023-02-08 00:29:53,586 - INFO - finish testing
+2023-02-08 00:29:53,586 - INFO - b''
+2023-02-08 00:29:53,733 - INFO - 0
+2023-02-08 00:29:53,733 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-08 00:29:53,740 - INFO - wait until the coverage file is saved a2dp.Vol
+2023-02-08 00:29:54,742 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-08 00:29:54,760 - INFO - coverage files at /mnt/sdcard/a2dp.Vol:
+2023-02-08 00:29:54,760 - INFO - onstop_coverage_1675844992911.ec
+2023-02-08 00:29:56,711 - INFO - b'mnt/sdcard/a2dp.Vol/onstop_coverage_1675844992911.ec: 1 file pulled, 0 skipped. 5.6 MB/s (264217 bytes in 0.045s)\n'
+2023-02-08 00:29:56,724 - INFO - report generating...
+2023-02-08 00:38:48,032 - INFO - finish testing
+2023-02-08 00:38:48,033 - INFO - b''
+2023-02-08 00:38:48,179 - INFO - 0
+2023-02-08 00:38:48,179 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-08 00:38:48,189 - INFO - wait until the coverage file is saved a2dp.Vol
+2023-02-08 00:38:49,191 - DEBUG - Command to check lock file:/home/syc/Android/Sdk/platform-tools/adb shell "test -e /mnt/sdcard/a2dp.Vol.lock > /dev/null 2>&1 && echo '1' || echo '0'"
+2023-02-08 00:38:49,209 - INFO - coverage files at /mnt/sdcard/a2dp.Vol:
+2023-02-08 00:38:49,209 - INFO - onstop_coverage_1675845527356.ec
+2023-02-08 00:38:52,310 - INFO - b'mnt/sdcard/a2dp.Vol/onstop_coverage_1675845527356.ec: 1 file pulled, 0 skipped. 64.3 MB/s (264217 bytes in 0.004s)\n'
+2023-02-08 00:38:52,319 - INFO - report generating...
